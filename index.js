@@ -7,5 +7,5 @@ var options = {
 
 request(options, function(error, response, body){
   var text = body;
-  fs.writeFile('hoge.txt', text, (err)=>{}); 
+  fs.writeFile('otenki.json', text, (err)=>{}); 
 })
