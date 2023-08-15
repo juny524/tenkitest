@@ -1,0 +1,22 @@
+{
+  "name": "tenkitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juny524/tenkitest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juny524/tenkitest/issues"
+  },
+  "homepage": "https://github.com/juny524/tenkitest#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
