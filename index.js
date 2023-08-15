@@ -7,5 +7,5 @@ var options = {
 
 request(options, function(error, response, body){
   var text = body;
-  fs.writeFile('otenki.json', text, (err)=>{}); 
+  fs.writeFile('/var/www/html/json/otenki.json', text, (err)=>{}); 
 })
